@@ -1,0 +1,15 @@
+[general]
+name=Catastro Rio Negro
+qgisMinimumVersion=3.0
+qgisMaximumVersion=4.99
+description=Automation tool for cadastral vector layers in Rio Negro, Argentina.
+about=An advanced cadastral tool designed for the Directorate of Land Registry of Rio Negro. It features three core modules: 1) Automated vacant land (baldios) segmentation by matching valuation databases (CSV), parcel frameworks (VM1), and vector geometries. 2) Real-time topological and orthogonal correction for boundary walls and newly digitized structures. 3) Structured mass export to CAD-ready DXF files, automatically projected into official POSGAR Gauss-Kruger flat coordinate fajas. Features real-time statistical monitoring of built-up areas and building categories.
+version=1.0
+author=jgrodriguez
+email=jgrodriguez@catastro.rionegro.gov.ar
+tracker=https://github.com
+repository=https://github.com
+tags=cadastre, vacant land, land registry, rio negro, orthogonalization, dxf, posgar, urban planning, automation
+icon=logo.png
+
+
